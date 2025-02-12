@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
+Sitemap: https://ancoar.com/sitemap.xml
+Sitemap: https://ancoar.com/sitemap.rss
+
